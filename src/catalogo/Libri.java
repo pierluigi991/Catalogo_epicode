@@ -1,6 +1,6 @@
 package catalogo;
 
-import catalogo.Prodotto;
+
 
 public class Libri extends Prodotto {
 	private String autore;

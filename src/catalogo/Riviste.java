@@ -1,7 +1,7 @@
 package catalogo;
 
-import catalogo.Periodicita;
-import catalogo.Prodotto;
+
+
 
 public class Riviste extends Prodotto {
 	private Periodicita periodicita;

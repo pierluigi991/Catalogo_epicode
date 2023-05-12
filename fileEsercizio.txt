@@ -1,0 +1,7 @@
+[codiceISBN=1234567, titolo=Harry Potter, annoPubblicazione=2009, numeroPagine=502, autore=j.k.Rowling, genere=fantasy]
+[codiceISBN=29303132, titolo=Un omicidio reale, annoPubblicazione=2017, numeroPagine=136, autore=S.J.Bennet, genere=giallo]
+[codiceISBN=89101112, titolo=Tutti i nomi della morte, annoPubblicazione=2017, numeroPagine=96, autore=Dario Correnti, genere=giallo]
+[codiceISBN=13141516, titolo=Panorama - n.1137, annoPubblicazione=2022, numeroPagine=73, periodicita=MENSILE]
+[codiceISBN=22232425, titolo=La settimana enigmistica - n.4742, annoPubblicazione=2023, numeroPagine=44, periodicita=SETTIMANALE]
+[codiceISBN=26272829, titolo=sudoku, annoPubblicazione=1999, numeroPagine=49, periodicita=SEMESTRALE]
+[codiceISBN=880435943540, titolo=epicode, annoPubblicazione=2012, numeroPagine=46, autore=pierluigi marzo, genere=programmazione]
